@@ -1,4 +1,4 @@
-# Scupio SSP frondend bidding
+# Scupio SSP frontend bidding
 
 This README is for developers who wish to make a request to integrate their frontend ad bidders with Scupio SSP.
 
